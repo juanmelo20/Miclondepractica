@@ -1,0 +1,22 @@
+{
+  "name": "practica-de-desarrollo-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanmelo20/Miclondepractica.git"
+  },
+  "author": "JuanMelo20",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanmelo20/Miclondepractica/issues"
+  },
+  "homepage": "https://github.com/juanmelo20/Miclondepractica#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
